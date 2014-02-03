@@ -1,8 +1,9 @@
 package WebService::BambooHR::UserAgent;
 {
-  $WebService::BambooHR::UserAgent::VERSION = '0.01';
+  $WebService::BambooHR::UserAgent::VERSION = '0.02';
 }
 
+use 5.006;
 use Moo::Role;
 use HTTP::Tiny;
 use MIME::Base64;

@@ -1,8 +1,9 @@
 package WebService::BambooHR;
 {
-  $WebService::BambooHR::VERSION = '0.01';
+  $WebService::BambooHR::VERSION = '0.02';
 }
 
+use 5.006;
 use Moo;
 use HTTP::Tiny;
 use Try::Tiny;

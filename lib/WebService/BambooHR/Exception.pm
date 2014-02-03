@@ -1,8 +1,9 @@
 package WebService::BambooHR::Exception;
 {
-  $WebService::BambooHR::Exception::VERSION = '0.01';
+  $WebService::BambooHR::Exception::VERSION = '0.02';
 }
 
+use 5.006;
 use Moo;
 with 'Throwable';
 
