@@ -1,8 +1,5 @@
 package WebService::BambooHR::EmployeeChange;
-{
-  $WebService::BambooHR::EmployeeChange::VERSION = '0.02';
-}
-
+$WebService::BambooHR::EmployeeChange::VERSION = '0.03';
 use 5.006;
 use Moo;
 
