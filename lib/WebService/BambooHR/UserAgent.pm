@@ -1,5 +1,5 @@
 package WebService::BambooHR::UserAgent;
-$WebService::BambooHR::UserAgent::VERSION = '0.03';
+$WebService::BambooHR::UserAgent::VERSION = '0.04';
 use 5.006;
 use Moo::Role;
 use HTTP::Tiny;
